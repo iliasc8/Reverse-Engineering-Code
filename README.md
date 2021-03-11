@@ -4,7 +4,6 @@ Github: https://github.com/iliasc8/Reverse-Engineering-Code.git
 
 Google: https://docs.google.com/document/d/1rVYyBecPjrrMl7BoM1qswgnSDlMwYhAP02VhrBmPDp4/edit?usp=sharing
 
-Video: https://drive.google.com/file/d/19QHr3rr5HK4Id3ahIzGsnEXQvc9GdI5Z/view
 
 
 
